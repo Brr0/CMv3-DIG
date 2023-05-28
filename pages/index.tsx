@@ -128,7 +128,7 @@ export default function Home() {
     <>
       <Head>
         <title>Diamond Investment Group</title>
-        <meta name="description" content="Mint pNFTs from the UI" />
+        <meta name="description" content="DIG phase 3 mint" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -192,8 +192,8 @@ export default function Home() {
                   marginBottom: "16px",
                 }}
               >
-                <span style={{ fontSize: "11px" }}>Live</span>
-                <span style={{ fontSize: "11px" }}>512/1024</span>
+                <span style={{ fontSize: "11px" }}></span>
+                <span style={{ fontSize: "11px" }}></span>
               </div>
               <button disabled={!publicKey} onClick={handleMintV2}>
                 mint

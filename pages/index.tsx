@@ -127,7 +127,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>pNFTs mint</title>
+        <title>Diamond Investment Group</title>
         <meta name="description" content="Mint pNFTs from the UI" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

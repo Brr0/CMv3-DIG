@@ -192,8 +192,8 @@ export default function Home() {
                   marginBottom: "16px",
                 }}
               >
-                <span style={{ fontSize: "11px" }}></span>
-                <span style={{ fontSize: "11px" }}></span>
+                <span style={{ fontSize: "11px" }}>Live Date:</span>
+                <span style={{ fontSize: "11px" }}>29.5.2023 15:00 UTC</span>
               </div>
               <button disabled={!publicKey} onClick={handleMintV2}>
                 mint
